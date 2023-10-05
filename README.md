@@ -1,4 +1,4 @@
-# <a href="https://aifactory.space/task/2511/overview">2023 제1회 철도 인공지능 경진대회</a>
+# <a href="https://aifactory.space/task/2511/overview" target="_blank">2023 제1회 철도 인공지능 경진대회</a>
 ## 🚩 대회 정보
 - 주제 : 열차의 주행 안정성 진단에 사용되는 ‘탈선계수’를 보다 높은 정확도로 예측할 수 있는 인공지능 모델 개발
 - 기간 : 23.08.01 ~ 23.09.21
