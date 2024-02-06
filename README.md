@@ -58,7 +58,7 @@
 |validation split|10000개 중 500개 행|
 |CNN 학습 범위|3m, 5m, <strong>7m(선정)</strong>, 10m|
 |activation|relu, swish, <strong>selu(선정)</strong>|
-|optimizer|SGD, Adam, <strong>Nadam(선정)</strong>|
+|optimizer|SGD, Adam, AdamW, <strong>Nadam(선정)</strong>|
 
 
 <br>
