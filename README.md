@@ -6,7 +6,6 @@
 - 결과 : 5위 / 68팀 (78.681525점)
 - 수상 : 장려상🥉
 <br>
-
 ## ✔대회 설명
 - 주어진 주행데이터 및 선로데이터를 이용하여, **탈선계수**에 해당하는 이하 4개 항목을 예측하는 모델을 만듭니다.
     - YL_M1_B1_W1: 좌측 전위 차륜 탈선계수
@@ -40,6 +39,7 @@
  ├--- 📁 lane_data_columns          --- 선로 센서 데이터 컬럼 설명
  └--- 📃 answer_sample.csv          --- 정답 양식 파일
  ```
+- <a href="https://github.com/ksj1368/2023_Railroad_Contest/blob/main/docs/%EC%B2%A0%EB%8F%84_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%B9%BC%EB%9F%BC_%EB%B6%84%EC%84%9D.pdf">데이터 정의 및 용어 정리</a>
 - data_c: 곡선 선로를 주행할 때 기차의 센서 데이터입니다. 'yaw damper'에 따라 30, 40, 50, 70, 100, 5개의 데이터로 구성됩니다.
 - data_s: 직선 선로를 주행할 때 기차의 센서 데이터입니다. 'yaw damper'에 따라 30, 40, 50, 70, 100, 5개의 데이터로 구성됩니다.
 - data_columns: data_c, data_s의 컬럼에 대한 설명 데이터입니다.
